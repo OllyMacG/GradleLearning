@@ -1,0 +1,5 @@
+plugins {
+    id 'GradleJavaApplicationWithLibraries.java-common-conventions'
+
+    id 'application'
+}
